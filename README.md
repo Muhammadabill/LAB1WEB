@@ -197,7 +197,9 @@ Menambahkan navigasi link menggunakan tag `<a>` dengan berbagai target.
 
 ### **Jawaban Pertanyaan Praktikum**
 
-![WhatsApp Image 2025-09-27 at 10 25 11](https://github.com/user-attachments/assets/462538e3-72ed-47d5-b225-a12b4e7778e5)
+```
+![WhatsApp Image 2025-09-27 at 10 25 11 (1)](https://github.com/user-attachments/assets/4c4358dc-86e9-422a-8796-8c84cfea93e6)
+```
 
 
 1. Jika ada salah penulisan tag, HTML tetap ditampilkan tetapi hasilnya bisa berantakan atau tidak sesuai (tidak error fatal).
